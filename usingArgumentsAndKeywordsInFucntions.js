@@ -18,7 +18,7 @@ function add(a, b, c) {		//pass two arguments: a and b
 }
 
 //add (5, 6, 2);			// 5 gets assigned to argument a, and 6 gets assigned to argument b
-var results = add(5, 1, 2)
+var results = add(2, 1, 2)
 
 console.log(results);
 
